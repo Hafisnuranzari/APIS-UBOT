@@ -1,11 +1,11 @@
 <a href="https://www.instagram.com/hafisnuranzari?r=nametag"><img src="https://images.cooltext.com/5537105.png" width="320" height="211" alt="  RAM-UBOT" /></a>
 
 <p align="center">
-  <a href="https://github.com/hafisnuranzari/RAM-UBOT/fork">
+  <a href="https://github.com/hafisnuranzari/APIS-UBOT/fork">
     <img src="https://img.shields.io/github/forks/ramadhani892/RAM-UBOT?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/hafisnuranzari/RAM-UBOT">
+  <a href="https://github.com/hafisnuranzari/APIS-UBOT">
     <img src="https://img.shields.io/github/stars/ramadhani892/RAM-UBOT?style=social">
   </a>
 </p>  
