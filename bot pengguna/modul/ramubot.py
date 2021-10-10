@@ -3,15 +3,15 @@ from userbot import CMD_HELP
 from userbot.events import register
 
 
-@register(outgoing=True, pattern='^.sadboy(?: |$)(.*)')
+@register(outgoing=True, pattern='^.ghosting(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
     sleep(2)
-    await typew.edit("`Pertama-tama kamu cantik`")
+    await typew.edit("`Pertama-tama kamu jelek`")
     sleep(2)
-    await typew.edit("`Kedua kamu manis`")
+    await typew.edit("`Kedua kamu ya kamu jelek`")
     sleep(1)
-    await typew.edit("`Dan yang terakhir adalah kamu bukan jodohku`")
+    await typew.edit("`Dan yang terakhir adalah kamu memang jelek jadi di ghosting tolol`")
 # Create by myself @localheart
 
 
@@ -25,7 +25,7 @@ async def typewriter(typew):
                      "`\n┻┳|￣  )`"
                      "`\n┳ﾐ(￣ ／`"
                      "`\n┻┳T￣|`"
-                     "\n**Permisi Aku mau nimbrung Kk..**")
+                     "\n**Permisi,Ku pantau Kau Anjing..**")
 
 
 @register(outgoing=True, pattern='^.geez(?: |$)(.*)')
@@ -58,34 +58,34 @@ async def typewriter(typew):
     await typew.edit("**CUMA RAMA YANG BENER!**")
 
 
-@register(outgoing=True, pattern='^.lahk(?: |$)(.*)')
+@register(outgoing=True, pattern='^.hapis(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("`Lahk, Lo tolol?`")
+    await typew.edit("`Hapis,itu ganteng`")
     sleep(1)
-    await typew.edit("`Apa dongok?`")
+    await typew.edit("`Anaknya baik`")
     sleep(1)
-    await typew.edit("`Gausah sok keras`")
+    await typew.edit("`Makanya kalo udah sama apis jan di sia siain tolo,apis limitid edition`")
     sleep(1)
-    await typew.edit("`Gua ga ketrigger sama bocah baru nyemplung!`")
+    await typew.edit("`apis setia kok orangnya beneran dah,jan di sia siain dia!`")
 
 
 @register(outgoing=True, pattern='^.wah(?: |$)(.*)')
 async def typewriter(typew):
     typew.pattern_match.group(1)
-    await typew.edit("`Wahh, War nya keren bang`")
+    await typew.edit("`Wahh, GC nya tante wina keren`")
     sleep(2)
-    await typew.edit("`Tapi, Yang gua liat, kok Kaya lawakan`")
+    await typew.edit("`Tapi, Yang gua liat, kok banyak badut`")
     sleep(2)
-    await typew.edit("`Oh iya, Kan lo badut 🤡`")
+    await typew.edit("`Oh iya, Kan banyak badut 🤡`")
     sleep(2)
-    await typew.edit("`Kosa kata pas ngelawak, Jangan di pake war bang`")
+    await typew.edit("`Kasian mau aja jadi badutnya si wina`")
     sleep(2)
-    await typew.edit("`Kesannya lo ngasih kita hiburan.`")
+    await typew.edit("`Kasian banget iduplu dah.`")
     sleep(2)
-    await typew.edit("`Kasian badut🤡, Ga di hargain pengunjung, Eh lampiaskan nya ke Tele, Wkwkwk`")
+    await typew.edit("`Kasian badut🤡,mending sama apis, Wkwkwk`")
     sleep(3)
-    await typew.edit("`Dah sana cabut, Makasih hiburannya, Udah bikin Gua tawa ngakak`")
+    await typew.edit("`Kalo sama apis bakal di jadiin kaya ratu kok`")
 
 CMD_HELP.update({
     "rambot":
