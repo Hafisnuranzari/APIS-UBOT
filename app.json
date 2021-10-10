@@ -1,6 +1,6 @@
 {
-  "name": "RAM-UBOT",
-  "description": "[RAM-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK ANAK JAMET.",
+  "name": "APIS-UBOT",
+  "description": "[APIS-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK ANAK JAMET.",
   "logo": "https://telegra.ph/file/4d30a41be2e88ce2adff7.jpg",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/hafisnuranzari/RAM-UBOT",
+  "repository": "https://github.com/hafisnuranzari/APIS-UBOT",
   "telegram": "https://t.me/xhfsz",
   "success_url": "https://t.me/fakhasemelehyuk",
   "stack": "container",
