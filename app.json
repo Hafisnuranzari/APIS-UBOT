@@ -1,5 +1,5 @@
 {
-  "name": "APIS-UBOT",
+  "name": "HAPIS-UBOT",
   "description": "[APIS-UBOT] USERBOT KHUSUS YANG DIGUNAKAN UNTUK ANAK JAMET.",
   "logo": "https://telegra.ph/file/4d30a41be2e88ce2adff7.jpg",
   "keywords": [
@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/Hafisnuranzari/APIS-UBOT",
+  "repository": "https://github.com/Hafisnuranzari/HAPIS-UBOT",
   "telegram": "https://t.me/xhfsz",
-  "success_url": "https://t.me/fakhasemelehyuk",
+  "success_url": "https://t.me/circlewarwer",
   "stack": "container",
   "env": {
     "API_KEY": {
